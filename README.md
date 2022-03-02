@@ -3,6 +3,8 @@
 Using library from Waveshare for E-Ink display (Not uploaded, obtain from: https://www.waveshare.com/wiki/4.2inch_e-Paper_Module or use appropriate alternative.)
     git link https://github.com/waveshare/e-Paper
     
+Created by Preson Dulion, Lane Shea, Nick Villano, Joe Gula, and Luke Tvarozna
+    
     
 Dependencies:
 
